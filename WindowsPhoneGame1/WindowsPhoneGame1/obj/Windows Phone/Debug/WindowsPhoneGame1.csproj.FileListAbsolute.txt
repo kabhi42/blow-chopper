@@ -1,0 +1,33 @@
+c:\users\abhinay\documents\visual studio 2010\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\abhinay\documents\visual studio 2010\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WindowsPhoneGame1.csprojResolveAssemblyReference.cache
+C:\Users\abhinay\documents\visual studio 2010\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\abhinay\documents\visual studio 2010\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\abhinay\documents\visual studio 2010\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\
+C:\Users\abhinay\documents\visual studio 2010\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\abhinay\documents\visual studio 2010\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\coin.xnb
+C:\Users\abhinay\documents\visual studio 2010\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\copter.xnb
+C:\Users\abhinay\documents\visual studio 2010\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\fire_obs.xnb
+C:\Users\abhinay\documents\visual studio 2010\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\Arial.xnb
+C:\Users\abhinay\documents\visual studio 2010\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\ribbon.xnb
+C:\Users\abhinay\documents\visual studio 2010\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Blow Chopper.dll
+C:\Users\abhinay\documents\visual studio 2010\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Blow Chopper.pdb
+C:\Users\abhinay\documents\visual studio 2010\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\Blow Chopper.dll
+C:\Users\abhinay\documents\visual studio 2010\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\Blow Chopper.pdb
+C:\Users\abhinay\documents\visual studio 2010\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Blow Chopper.xap
+C:\Users\abhinay\Documents\Visual Studio 2010\Projects\Blow chopper WP 7.x\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\copter.xnb
+C:\Users\abhinay\Documents\Visual Studio 2010\Projects\Blow chopper WP 7.x\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\coin.xnb
+C:\Users\abhinay\Documents\Visual Studio 2010\Projects\Blow chopper WP 7.x\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\fire_obs.xnb
+C:\Users\abhinay\Documents\Visual Studio 2010\Projects\Blow chopper WP 7.x\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\ribbon.xnb
+C:\Users\abhinay\Documents\Visual Studio 2010\Projects\Blow chopper WP 7.x\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\Arial.xnb
+C:\Users\abhinay\Documents\Visual Studio 2010\Projects\Blow chopper WP 7.x\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Blow Chopper.dll
+C:\Users\abhinay\Documents\Visual Studio 2010\Projects\Blow chopper WP 7.x\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Blow Chopper.pdb
+C:\Users\abhinay\Documents\Visual Studio 2010\Projects\Blow chopper WP 7.x\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WindowsPhoneGame1.csprojResolveAssemblyReference.cache
+C:\Users\abhinay\Documents\Visual Studio 2010\Projects\Blow chopper WP 7.x\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\abhinay\Documents\Visual Studio 2010\Projects\Blow chopper WP 7.x\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\Blow Chopper.dll
+C:\Users\abhinay\Documents\Visual Studio 2010\Projects\Blow chopper WP 7.x\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\Blow Chopper.pdb
+C:\Users\abhinay\Documents\Visual Studio 2010\Projects\Blow chopper WP 7.x\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\abhinay\Documents\Visual Studio 2010\Projects\Blow chopper WP 7.x\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\abhinay\Documents\Visual Studio 2010\Projects\Blow chopper WP 7.x\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Users\abhinay\Documents\Visual Studio 2010\Projects\Blow chopper WP 7.x\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Blow Chopper.xap
+C:\Users\abhinay\Documents\Visual Studio 2010\Projects\Blow chopper WP 7.x\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\XapCacheFile.xml

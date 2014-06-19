@@ -1,0 +1,5 @@
+Content\copter.xnb
+Content\coin.xnb
+Content\fire_obs.xnb
+Content\ribbon.xnb
+Content\Arial.xnb
